@@ -1,8 +1,7 @@
-
 public class TestClass {
 private int numTest;
-public void setNumTest(int a)
+public void setNumTest(int b)
 {
-	this.numTest=a;
+	this.numTest=b;
 }
 }
